@@ -6,6 +6,7 @@ body {
   align-items: center;
   background: url(./media/pics/pexels-leah-kelley-952594.jpg);
   background-size: cover;
+  opacity: 0.9;
 }
 
 .container h1 {
